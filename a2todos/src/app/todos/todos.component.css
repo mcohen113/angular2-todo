@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  position: relative;
+  left: 5px;
+}
